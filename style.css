@@ -156,6 +156,15 @@ section h2{
 
 }
 
+.sample{
+    background:#f39c12;
+    color:white;
+}
+
+.sample:hover{
+    background:#d68910;
+}
+
 /* ===========================
    About
 =========================== */
